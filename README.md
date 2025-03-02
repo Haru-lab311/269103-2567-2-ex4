@@ -34,9 +34,14 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+grep and find
+grep- search specific patterns in files or command output
+find- search files or directory that matches requierd conditions
+why?
+grep is so helpful for finding related information quickly,making a systematic approach to solving a problem.
+find is able to find a file that you are looking for among large amounts of files quickly, managing them easily.
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+I think that ISNE program can not get busy with assignments in first year.But if you let your guard down and not studying in daily,you might be busy for upcoming exam. So be organised and managing yout time effectively is key to staying on top of your studies without working too much.
